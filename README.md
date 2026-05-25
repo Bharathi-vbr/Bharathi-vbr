@@ -38,11 +38,11 @@
 </td>
 <td valign="top" width="33%">
 
-**Languages & CI/CD**
+**AI & Languages**
 - Python · Bash · Shell
-- GitHub Actions · Docker
-- FastAPI · Redis
-- Claude API · MCP
+- LangChain · ChromaDB · RAG
+- Claude API · MCP · Groq
+- GitHub Actions · Docker · FastAPI
 
 </td>
 </tr>
@@ -56,7 +56,8 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**AI Incident Commander**](https://github.com/Bharathi-vbr/AI-Incident-Commander) | Production-style fintech incident simulation platform — detects, triages, and resolves incidents using observable payment traffic, alert automation, and runbook-driven workflows. Full UI with live incident lifecycle management | `Python` `FastAPI` `React` `Redis` `Prometheus` `Grafana` `Docker` |
+| [**SRE Command Center**](https://github.com/Bharathi-vbr/sre-command-center) | Production-style on-call agent — describe an incident in plain English and it autonomously fetches alerts, checks deployments, searches runbooks (RAG), pulls live metrics, and produces a structured root-cause report in under 60 seconds. [**Live demo on HuggingFace Spaces**](https://huggingface.co/spaces/Bharathibhummi/sre-command-center) | `Python` `LangChain` `Groq Llama 3` `ChromaDB` `RAG` `Gradio` `LangSmith` |
+| [**AI Incident Commander**](https://github.com/Bharathi-vbr/AI-Incident-Commander) | GenAI-powered incident platform — uses Claude API to analyze logs, correlate incidents with deployments, and automate RCA and runbook suggestions for SRE workflows | `Python` `FastAPI` `Claude API` `Redis` `Prometheus` `Grafana` `Docker` |
 | [**MCP Doc Assistant**](https://github.com/Bharathi-vbr/mcp-doc-assistant) | Document management server using the Model Context Protocol — exposes read/edit tools via FastMCP, consumed by a Python async client with full tool-call lifecycle | `Python` `MCP` `FastMCP` `Anthropic` |
 | [**Claude Code Course**](https://github.com/Bharathi-vbr/claude-code-course) | CLI chat assistant with MCP server/client integration, multi-turn conversations, and document tool use powered by the Anthropic Claude API | `Python` `Claude API` `MCP` `CLI` |
 
@@ -88,7 +89,8 @@
 |--------|-------------|-------|
 | [**Weatherstack Redis Poller**](https://github.com/Bharathi-vbr/Weatherstack-Redis-Poller) | Polling service that fetches live weather data on a schedule, caches it in Redis, and exposes it for downstream consumers | `Python` `Redis` `Caching` |
 | [**Docker Projects**](https://github.com/Bharathi-vbr/Docker-Projects) | Practical containerization examples — multi-stage builds, Docker Compose networking, and deployment patterns | `Docker` `Go` `Compose` |
-| [**Cron Jobs**](https://github.com/Bharathi-vbr/cron-jobs) | Production-grade shell scripts for SRE automation — system monitoring, log rotation, backups, and health checks | `Bash` `Shell` `Cron` `Linux` |
+| [**Shell Scripting Projects**](https://github.com/Bharathi-vbr/shell-scripting-projects) | Production-grade SRE automation scripts — system monitoring, log rotation, health checks, and alerting | `Bash` `Shell` `Linux` `SRE` |
+| [**Cron Jobs**](https://github.com/Bharathi-vbr/cron-jobs) | Reusable cron-based shell scripts for system administration, maintenance, backup, and monitoring tasks | `Bash` `Shell` `Cron` `Linux` |
 
 ---
 
