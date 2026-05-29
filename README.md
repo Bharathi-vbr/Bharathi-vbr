@@ -7,7 +7,7 @@
 *Building production-grade platform infrastructure · Automating reliability at scale · Integrating AI into SRE workflows*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-https://www.linkedin.com/in/bharathibhumi/
+[![LinkedIn](https://www.linkedin.com/in/bharathibhumi/)]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathibhummi2023@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharathi-vbr)
 
