@@ -6,8 +6,7 @@
 
 *Building production-grade platform infrastructure · Automating reliability at scale · Integrating AI into SRE workflows*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![LinkedIn](https://www.linkedin.com/in/bharathibhumi/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathibhumi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathibhummi2023@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharathi-vbr)
 
@@ -57,10 +56,10 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**SRE Command Center**](https://github.com/Bharathi-vbr/sre-command-center) | Production-style on-call agent — describe an incident in plain English and it autonomously fetches alerts, checks deployments, searches runbooks (RAG), pulls live metrics, and produces a structured root-cause report in under 60 seconds. [**Live demo on HuggingFace Spaces**](https://huggingface.co/spaces/Bharathibhummi/sre-command-center) | `Python` `LangChain` `Groq Llama 3` `ChromaDB` `RAG` `Gradio` `LangSmith` |
-| [**AI Incident Commander**](https://github.com/Bharathi-vbr/AI-Incident-Commander) | GenAI-powered incident platform — uses Claude API to analyze logs, correlate incidents with deployments, and automate RCA and runbook suggestions for SRE workflows | `Python` `FastAPI` `Claude API` `Redis` `Prometheus` `Grafana` `Docker` |
-| [**MCP Doc Assistant**](https://github.com/Bharathi-vbr/mcp-doc-assistant) | Document management server using the Model Context Protocol — exposes read/edit tools via FastMCP, consumed by a Python async client with full tool-call lifecycle | `Python` `MCP` `FastMCP` `Anthropic` |
-| [**Claude Code Course**](https://github.com/Bharathi-vbr/claude-code-course) | CLI chat assistant with MCP server/client integration, multi-turn conversations, and document tool use powered by the Anthropic Claude API | `Python` `Claude API` `MCP` `CLI` |
+| [**SRE Command Center**](https://github.com/Bharathi-vbr/sre-command-center) | Production-style on-call agent — describe an incident in plain English and it autonomously fetches alerts, checks dep[...]
+| [**AI Incident Commander**](https://github.com/Bharathi-vbr/AI-Incident-Commander) | GenAI-powered incident platform — uses Claude API to analyze logs, correlate incidents with deployments, and au[...]
+| [**MCP Doc Assistant**](https://github.com/Bharathi-vbr/mcp-doc-assistant) | Document management server using the Model Context Protocol — exposes read/edit tools via FastMCP, consumed by a Python[...]
+| [**Claude Code Course**](https://github.com/Bharathi-vbr/claude-code-course) | CLI chat assistant with MCP server/client integration, multi-turn conversations, and document tool use powered by the A[...]
 
 ---
 
@@ -68,9 +67,9 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**AWS DevOps CI/CD Pipeline**](https://github.com/Bharathi-vbr/AWS-DevOps-CI-CD-Pipeline) | End-to-end CI/CD pipeline for a React app — automated build, push to ECR, ECS Fargate deployment via CodePipeline and CodeBuild, infrastructure defined in CloudFormation | `AWS` `ECS Fargate` `ECR` `CodePipeline` `CloudFormation` `Docker` |
-| [**Terraform AWS Modules**](https://github.com/Bharathi-vbr/terraform) | Reusable, production-ready Terraform modules for VPC, EC2, RDS Aurora, ECS Fargate, ALB, S3, and IAM — designed for secure, scalable AWS provisioning | `Terraform` `AWS` `HCL` `IaC` |
-| [**K8s Observability Stack**](https://github.com/Bharathi-vbr/k8s-observability-Stack) | Full observability stack on Kubernetes — deploys Prometheus, Grafana, and a Node.js instrumented app via Helm on AWS EC2 with pre-built dashboards | `Kubernetes` `Prometheus` `Grafana` `Helm` `AWS EC2` |
+| [**AWS DevOps CI/CD Pipeline**](https://github.com/Bharathi-vbr/AWS-DevOps-CI-CD-Pipeline) | End-to-end CI/CD pipeline for a React app — automated build, push to ECR, ECS Fargate deployment via Co[...]
+| [**Terraform AWS Modules**](https://github.com/Bharathi-vbr/terraform) | Reusable, production-ready Terraform modules for VPC, EC2, RDS Aurora, ECS Fargate, ALB, S3, and IAM — designed for secure,[...]
+| [**K8s Observability Stack**](https://github.com/Bharathi-vbr/k8s-observability-Stack) | Full observability stack on Kubernetes — deploys Prometheus, Grafana, and a Node.js instrumented app via He[...]
 
 ---
 
@@ -78,9 +77,9 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**DevSecOps Demo**](https://github.com/Bharathi-vbr/DevSecOps_Demo) | End-to-end DevSecOps pipeline with SAST, DAST, dependency scanning, and container security checks integrated into GitHub Actions for a Java/Maven application | `Java` `GitHub Actions` `SAST` `DAST` `Kubernetes` |
-| [**GitHub Actions Pipelines**](https://github.com/Bharathi-vbr/github-actions-devops-pipelines) | Reusable workflow library for CI/CD — build, test, lint, and deploy templates for Docker, Java/Maven to ECS, and Python projects | `GitHub Actions` `Docker` `Python` `Java` |
-| [**Ansible Projects**](https://github.com/Bharathi-vbr/ansible-projects) | Role-based Ansible automation for Nginx deployment — idempotent playbooks with tasks, handlers, and templates for repeatable infrastructure setup | `Ansible` `YAML` `Nginx` `Linux` |
+| [**DevSecOps Demo**](https://github.com/Bharathi-vbr/DevSecOps_Demo) | End-to-end DevSecOps pipeline with SAST, DAST, dependency scanning, and container security checks integrated into GitHub Action[...]
+| [**GitHub Actions Pipelines**](https://github.com/Bharathi-vbr/github-actions-devops-pipelines) | Reusable workflow library for CI/CD — build, test, lint, and deploy templates for Docker, Java/Mav[...]
+| [**Ansible Projects**](https://github.com/Bharathi-vbr/ansible-projects) | Role-based Ansible automation for Nginx deployment — idempotent playbooks with tasks, handlers, and templates for repeata[...]
 
 ---
 
@@ -88,9 +87,9 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**Weatherstack Redis Poller**](https://github.com/Bharathi-vbr/Weatherstack-Redis-Poller) | Polling service that fetches live weather data on a schedule, caches it in Redis, and exposes it for downstream consumers | `Python` `Redis` `Caching` |
-| [**Docker Projects**](https://github.com/Bharathi-vbr/Docker-Projects) | Practical containerization examples — multi-stage builds, Docker Compose networking, and deployment patterns | `Docker` `Go` `Compose` |
-| [**Shell Scripting Projects**](https://github.com/Bharathi-vbr/shell-scripting-projects) | Production-grade SRE automation scripts — system monitoring, log rotation, health checks, and alerting | `Bash` `Shell` `Linux` `SRE` |
+| [**Weatherstack Redis Poller**](https://github.com/Bharathi-vbr/Weatherstack-Redis-Poller) | Polling service that fetches live weather data on a schedule, caches it in Redis, and exposes it for down[...]
+| [**Docker Projects**](https://github.com/Bharathi-vbr/Docker-Projects) | Practical containerization examples — multi-stage builds, Docker Compose networking, and deployment patterns | `Docker` `Go[...]
+| [**Shell Scripting Projects**](https://github.com/Bharathi-vbr/shell-scripting-projects) | Production-grade SRE automation scripts — system monitoring, log rotation, health checks, and alerting | [...]
 | [**Cron Jobs**](https://github.com/Bharathi-vbr/cron-jobs) | Reusable cron-based shell scripts for system administration, maintenance, backup, and monitoring tasks | `Bash` `Shell` `Cron` `Linux` |
 
 ---
